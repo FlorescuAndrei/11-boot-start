@@ -7,6 +7,8 @@ Basic steps:
  - application.properties file: edit property for Spring boot actuator and other examples.
  - Spring Boot Dev Tools – to automaticly reload application when changes are made.
 
-Dependencyes: Web, DevTools, Actuator, Security
+Dependencyes: Web, DevTools, Actuator, Security.  
+
+To run the app: Application.java -> run as java application
 
 [BACK TO START PAGE](https://github.com/FlorescuAndrei/Start.git)
