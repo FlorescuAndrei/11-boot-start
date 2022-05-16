@@ -9,7 +9,7 @@ Basic steps:
 
 Dependencyes: Web, DevTools, Actuator, Security.    
 
-Configuration: Java config - Application.java @SpringBootApplication (=  @EnableAutoConfiguration, @ComponnentScanning, @Configration)
+Configuration: Java config - Application.java, @SpringBootApplication (=  @EnableAutoConfiguration, @ComponnentScanning, @Configration)
 
 To run the app: Application.java -> run as java application
 
